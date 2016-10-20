@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\String_Permutations\String_Permutations\String_Permutations\bin\Debug\String_Permutations.exe
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\String_Permutations\String_Permutations\String_Permutations\bin\Debug\String_Permutations.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\String_Permutations\String_Permutations\String_Permutations\obj\Debug\String_Permutations.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\String_Permutations\String_Permutations\String_Permutations\obj\Debug\String_Permutations.exe
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\String_Permutations\String_Permutations\String_Permutations\obj\Debug\String_Permutations.pdb

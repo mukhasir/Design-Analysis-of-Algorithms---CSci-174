@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Telephone_Words\Telephone_Words\Telephone_Words\bin\Debug\Telephone_Words.exe
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Telephone_Words\Telephone_Words\Telephone_Words\bin\Debug\Telephone_Words.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Telephone_Words\Telephone_Words\Telephone_Words\obj\Debug\Telephone_Words.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Telephone_Words\Telephone_Words\Telephone_Words\obj\Debug\Telephone_Words.exe
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Telephone_Words\Telephone_Words\Telephone_Words\obj\Debug\Telephone_Words.pdb

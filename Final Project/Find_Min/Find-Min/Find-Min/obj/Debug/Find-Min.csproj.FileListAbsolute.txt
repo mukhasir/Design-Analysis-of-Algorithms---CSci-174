@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Find_Min\Find-Min\Find-Min\bin\Debug\Find-Min.exe
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Find_Min\Find-Min\Find-Min\bin\Debug\Find-Min.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Find_Min\Find-Min\Find-Min\obj\Debug\Find-Min.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Find_Min\Find-Min\Find-Min\obj\Debug\Find-Min.exe
+E:\Fall 2015\Design Analysis of Algorithms\Final Project\Find_Min\Find-Min\Find-Min\obj\Debug\Find-Min.pdb
