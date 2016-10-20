@@ -1,0 +1,8 @@
+https://github.com/mopaul/codeeval/blob/master/src/BayBridges.java
+https://github.com/lucasrangit/CodeEval/blob/master/bridges.py
+https://gist.github.com/anymd/8450736
+https://github.com/mopaul/codeeval/blob/master/src/BayBridges.java
+https://gist.github.com/anymd/8450736
+https://deepinthecode.com/2014/03/26/key-solving-codeevals-bay-bridges-challenge/
+http://shashank.ramaprasad.com/2013/12/16/a-graph-theoretic-approach-to-the-bay-bridges-challenge/
+https://github.com/pwy0424/codeeval/blob/master/bayBridges.c

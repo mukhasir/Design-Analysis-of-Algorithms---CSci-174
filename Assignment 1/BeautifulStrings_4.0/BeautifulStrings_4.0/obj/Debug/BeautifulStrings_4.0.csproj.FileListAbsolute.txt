@@ -1,0 +1,7 @@
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings_4.0\BeautifulStrings_4.0\bin\Debug\BeautifulStrings_4.0.exe
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings_4.0\BeautifulStrings_4.0\bin\Debug\BeautifulStrings_4.0.pdb
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings_4.0\BeautifulStrings_4.0\obj\Debug\BeautifulStrings_4.0.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings_4.0\BeautifulStrings_4.0\obj\Debug\BeautifulStrings_4.0.exe
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings_4.0\BeautifulStrings_4.0\obj\Debug\BeautifulStrings_4.0.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings_4.0\BeautifulStrings_4.0\obj\Debug\BeautifulStrings_4.0.exe
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings_4.0\BeautifulStrings_4.0\obj\Debug\BeautifulStrings_4.0.pdb

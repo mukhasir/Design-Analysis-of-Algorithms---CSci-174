@@ -1,0 +1,12 @@
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.exe.config
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.exe
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.pdb
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.exe
+E:\Fall 2015\Design Analysis of Algorithms\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.exe.config
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.exe
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.exe
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 1\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.csprojResolveAssemblyReference.cache
