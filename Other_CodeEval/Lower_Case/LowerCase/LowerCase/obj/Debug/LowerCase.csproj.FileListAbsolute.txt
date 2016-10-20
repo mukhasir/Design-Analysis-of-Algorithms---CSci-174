@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Lower_Case\LowerCase\LowerCase\bin\Debug\LowerCase.exe
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Lower_Case\LowerCase\LowerCase\bin\Debug\LowerCase.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Lower_Case\LowerCase\LowerCase\obj\Debug\LowerCase.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Lower_Case\LowerCase\LowerCase\obj\Debug\LowerCase.exe
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Lower_Case\LowerCase\LowerCase\obj\Debug\LowerCase.pdb

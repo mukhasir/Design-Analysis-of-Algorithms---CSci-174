@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Data_Recovery\DataRecovery\DataRecovery\bin\Debug\DataRecovery.exe
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Data_Recovery\DataRecovery\DataRecovery\bin\Debug\DataRecovery.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Data_Recovery\DataRecovery\DataRecovery\obj\Debug\DataRecovery.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Data_Recovery\DataRecovery\DataRecovery\obj\Debug\DataRecovery.exe
+E:\Fall 2015\Design Analysis of Algorithms\Other_CodeEval\Data_Recovery\DataRecovery\DataRecovery\obj\Debug\DataRecovery.pdb
