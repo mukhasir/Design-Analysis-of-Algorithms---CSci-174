@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 6\PrefixExpressions\PrefixExpressions\bin\Debug\PrefixExpressions.exe
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 6\PrefixExpressions\PrefixExpressions\bin\Debug\PrefixExpressions.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 6\PrefixExpressions\PrefixExpressions\obj\Debug\PrefixExpressions.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 6\PrefixExpressions\PrefixExpressions\obj\Debug\PrefixExpressions.exe
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 6\PrefixExpressions\PrefixExpressions\obj\Debug\PrefixExpressions.pdb
