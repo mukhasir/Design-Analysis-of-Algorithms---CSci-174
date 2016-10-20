@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 8\LCS\LCS\bin\Debug\LCS.exe
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 8\LCS\LCS\bin\Debug\LCS.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 8\LCS\LCS\obj\Debug\LCS.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 8\LCS\LCS\obj\Debug\LCS.exe
+E:\Fall 2015\Design Analysis of Algorithms\Assignment 8\LCS\LCS\obj\Debug\LCS.pdb

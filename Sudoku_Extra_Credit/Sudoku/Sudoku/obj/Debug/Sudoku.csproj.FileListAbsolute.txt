@@ -1,0 +1,5 @@
+E:\Fall 2015\Design Analysis of Algorithms\Sudoku_Extra_Credit\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+E:\Fall 2015\Design Analysis of Algorithms\Sudoku_Extra_Credit\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+E:\Fall 2015\Design Analysis of Algorithms\Sudoku_Extra_Credit\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+E:\Fall 2015\Design Analysis of Algorithms\Sudoku_Extra_Credit\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+E:\Fall 2015\Design Analysis of Algorithms\Sudoku_Extra_Credit\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
